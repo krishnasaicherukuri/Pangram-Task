@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.weekData {
+  /* color: #61dafb; */
+  padding: 20px;
+}
+.checkboxStyle {
+  padding-left: 15px;
+  padding-right: 18px;
+}
